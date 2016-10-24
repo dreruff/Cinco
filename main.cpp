@@ -7,7 +7,7 @@
 #include <ctime>
 #include "Cinco.h"
 
-main(){
+int main(){
   srand(time(0));
   Cinco c;
   c.start();
